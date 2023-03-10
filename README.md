@@ -7,9 +7,15 @@
 
 Project | Language | Stars | Description
 ------- | -------- | ----- | -----------
-[Audio_Brands](https://github.com/RajkumarPrajapati001/Audio_Brands) | <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> | ![](https://badgen.net/github/stars/RajkumarPrajapati001/Audio_Brands) | In Application 9 Screen Available , Like - Splesh Screen, Home Screen, Add Cart ,Category, Login, SignUp etc
+[Audio_Brands](https://github.com/RajkumarPrajapati001/Audio_Brands) | <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> | ![](https://badgen.net/github/stars/RajkumarPrajapati001/Audio_Brands) | A curated android live templates to make your android development more fast🚀 and easy✨
+[Food-App-UI](https://github.com/RajkumarPrajapati001/Food-App-UI) | <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> | ![](https://github.com/RajkumarPrajapati001/Food-App-UI) | Food UI App
+
+
+
+![GitHub metrics](https://metrics.lecoq.io/RajkumarPrajapati001)  
 
 
 ## Reach me via:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajkumarprajapati/)
+
